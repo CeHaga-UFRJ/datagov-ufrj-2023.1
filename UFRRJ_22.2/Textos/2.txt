@@ -1,268 +1,119 @@
-sexta-feira, 08 de julho de 2022.
+                                                                                                                                                                       sexta-feira, 08 de julho de 2022.
 
-UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO
-PRÓ-REITORIA DE GRADUAÇÃO
-PROGRAD/UFRRJ
 
-Relação de Convocação para Solicitação de Matrícula na Chamada Regular SiSU 2022-2
-A Solicitação de Matrícula (em modo remoto) começará no dia 13/07/2022 (quarta-feira) e se estenderá até as 23h59m59s da segunda-feira, dia 18/07/2022.
-CAMPUS
-NOME DO CURSO
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
+                                                                        UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO
+                                                                                    PRÓ-REITORIA DE GRADUAÇÃO
+                                                                                            PROGRAD/UFRRJ
 
-TURNO
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
+         Relação de Convocação para Solicitação de Matrícula na Chamada Regular SiSU 2022-2
+         A Solicitação de Matrícula (em modo remoto) começará no dia 13/07/2022 (quarta-feira) e se estenderá até as 23h59m59s da segunda-feira, dia 18/07/2022.
 
-NOME DO CANDIDATO
-ALINE RIBEIRO DUARTE OLIVEIRA
-ALVARO RIBEIRO BALASSO
-AMANDA DOS SANTOS OLIVEIRA
-ANA BEATRIZ MANCILHA BERNARDO
-ANA CLARA DE SOUZA COSTA
-ANA ELISA CAMPOS SARAIVA
-ANA JESSICA AMARANTES DE SOUZA
-ANA JULIA FLORENCIO NASCIMENTO
-ANA LIDIA FRAZAO ALBUQUERQUE
-ANDRE RICARDO SURCIN FILGUEIRAS
-ANDRESSA SANTANA COELHO
-ARTHUR VALENTE DE OLIVEIRA
-BERNARDO ALVAREZ MOREIRA
-BIANCA DO NASCIMENTO DOS SANTOS
-BRUNA LOPES DE OLIVEIRA
-CAMILA AGUIAR CORREA
-CARLA VANESSA MARTINELI FRAGOSO
-CASSEMIRA SAVANA ARAUJO DOS SANTOS
-DANILO HENRIQUE DE FARIA NACARAT
-EDGAR CLARISMUNDO DE SOUZA JUNIOR
-EDUARDO SOUZA DO VALE
-EMANUELLA YORIO CAMARGO BARBOSA
-FABIANA VITORIA DE CARVALHO DE SA
-FERNANDA MIGLIORINI SILVEIRA AMORIM
-FERNANDA PEREIRA DA SILVA SANTOS
-FERNANDO MARCON DE SOUZA
-GABRIEL VITTI OLIVEIRA BONTURI
-GABRIELI SANTOS NASCIMENTO
-GREICK HENRIQUE GONCALVES FIDELES
-GUSTAVO BRAGA AMORIM
-ISABELLA MACHADO JANNUZZI ESCARLADO GUIMARAES
-ISABELLE CAMELO DO AMARAL
+         CAMPUS         NOME DO CURSO                        TURNO         NOME DO CANDIDATO
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      ALINE RIBEIRO DUARTE OLIVEIRA
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      ALVARO RIBEIRO BALASSO
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      AMANDA DOS SANTOS OLIVEIRA
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      ANA BEATRIZ MANCILHA BERNARDO
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      ANA CLARA DE SOUZA COSTA
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      ANA ELISA CAMPOS SARAIVA
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      ANA JESSICA AMARANTES DE SOUZA
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      ANA JULIA FLORENCIO NASCIMENTO
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      ANA LIDIA FRAZAO ALBUQUERQUE
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      ANDRE RICARDO SURCIN FILGUEIRAS
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      ANDRESSA SANTANA COELHO
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      ARTHUR VALENTE DE OLIVEIRA
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      BERNARDO ALVAREZ MOREIRA
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      BIANCA DO NASCIMENTO DOS SANTOS
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      BRUNA LOPES DE OLIVEIRA
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      CAMILA AGUIAR CORREA
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      CARLA VANESSA MARTINELI FRAGOSO
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      CASSEMIRA SAVANA ARAUJO DOS SANTOS
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      DANILO HENRIQUE DE FARIA NACARAT
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      EDGAR CLARISMUNDO DE SOUZA JUNIOR
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      EDUARDO SOUZA DO VALE
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      EMANUELLA YORIO CAMARGO BARBOSA
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      FABIANA VITORIA DE CARVALHO DE SA
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      FERNANDA MIGLIORINI SILVEIRA AMORIM
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      FERNANDA PEREIRA DA SILVA SANTOS
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      FERNANDO MARCON DE SOUZA
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      GABRIEL VITTI OLIVEIRA BONTURI
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      GABRIELI SANTOS NASCIMENTO
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      GREICK HENRIQUE GONCALVES FIDELES
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      GUSTAVO BRAGA AMORIM
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      ISABELLA MACHADO JANNUZZI ESCARLADO GUIMARAES
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      ISABELLE CAMELO DO AMARAL
 
-1/3
 
-sexta-feira, 08 de julho de 2022.
 
-UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO
-PRÓ-REITORIA DE GRADUAÇÃO
-PROGRAD/UFRRJ
+                                                                                                                                                                                                      1/3
+                                                                                                                                                                       sexta-feira, 08 de julho de 2022.
 
-Relação de Convocação para Solicitação de Matrícula na Chamada Regular SiSU 2022-2
-A Solicitação de Matrícula (em modo remoto) começará no dia 13/07/2022 (quarta-feira) e se estenderá até as 23h59m59s da segunda-feira, dia 18/07/2022.
-CAMPUS
-NOME DO CURSO
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
 
-TURNO
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
+                                                                        UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO
+                                                                                    PRÓ-REITORIA DE GRADUAÇÃO
+                                                                                            PROGRAD/UFRRJ
 
-NOME DO CANDIDATO
-ISABELLE RAMOS CUNHA
-ISADORA DA SILVA MOREIRA
-IZADORA CARVALHO BARROS
-JAQUELINE ALENCAR DA SILVA XAVIER
-JAQUELINE OLIVEIRA MENDES
-JOAO GABRIEL BARROS COSTA
-JULIANO LINO FERREIRA
-KETHLLEN VITORIA BATISTA PEREIRA
-LARISSA YUKA TAKAKI
-LEONAN BAPTISTA DE CARVALHO
-LOUYSE DA SILVA MENEZES CARVALHO
-LUCAS PIMENTA TRESSE
-LUCAS VINICIUS ALVES
-LUDMILLA BEGARI MARROIG
-LUIZA MARIA SOUSA BEZERRA
-MAIARA GISELE ZANZARINI PERIGO
-MANUELA BARANDA DE OLIVEIRA NETTO
-MARIA CLARA CANANEA MACHADO
-MARIA CLARA MACHADO SILVA
-MARIA EDUARDA SOUZA DA SILVA
-MARIA JULIA RODRIGUES SILVA
-MARIA LUIZA CAMPOS MAXIMO MOREIRA
-MIGUEL RIBEIRO DA SILVA IOTTE
-NARALICE MASCARENHAS DOS SANTOS
-NATHALIA CARDOSO DE ALMEIDA PEREIRA
-NATHALIA RUVER DE MORAES
-NICOLAS ALEXANDRE GONCALO DA SILVA
-PAOLLA PEIXOTO TAVARES RIBEIRO MACHADO
-RAFAEL CHAGAS MACHADO
-RAFAEL MOURA DE OLIVEIRA
-RAFAELLA BIAGI DE OLIVEIRA
-RAPHAEL DOS SANTOS MARCAL
+         Relação de Convocação para Solicitação de Matrícula na Chamada Regular SiSU 2022-2
+         A Solicitação de Matrícula (em modo remoto) começará no dia 13/07/2022 (quarta-feira) e se estenderá até as 23h59m59s da segunda-feira, dia 18/07/2022.
 
-2/3
+         CAMPUS         NOME DO CURSO                        TURNO         NOME DO CANDIDATO
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      ISABELLE RAMOS CUNHA
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      ISADORA DA SILVA MOREIRA
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      IZADORA CARVALHO BARROS
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      JAQUELINE ALENCAR DA SILVA XAVIER
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      JAQUELINE OLIVEIRA MENDES
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      JOAO GABRIEL BARROS COSTA
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      JULIANO LINO FERREIRA
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      KETHLLEN VITORIA BATISTA PEREIRA
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      LARISSA YUKA TAKAKI
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      LEONAN BAPTISTA DE CARVALHO
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      LOUYSE DA SILVA MENEZES CARVALHO
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      LUCAS PIMENTA TRESSE
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      LUCAS VINICIUS ALVES
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      LUDMILLA BEGARI MARROIG
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      LUIZA MARIA SOUSA BEZERRA
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      MAIARA GISELE ZANZARINI PERIGO
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      MANUELA BARANDA DE OLIVEIRA NETTO
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      MARIA CLARA CANANEA MACHADO
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      MARIA CLARA MACHADO SILVA
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      MARIA EDUARDA SOUZA DA SILVA
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      MARIA JULIA RODRIGUES SILVA
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      MARIA LUIZA CAMPOS MAXIMO MOREIRA
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      MIGUEL RIBEIRO DA SILVA IOTTE
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      NARALICE MASCARENHAS DOS SANTOS
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      NATHALIA CARDOSO DE ALMEIDA PEREIRA
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      NATHALIA RUVER DE MORAES
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      NICOLAS ALEXANDRE GONCALO DA SILVA
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      PAOLLA PEIXOTO TAVARES RIBEIRO MACHADO
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      RAFAEL CHAGAS MACHADO
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      RAFAEL MOURA DE OLIVEIRA
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      RAFAELLA BIAGI DE OLIVEIRA
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      RAPHAEL DOS SANTOS MARCAL
 
-sexta-feira, 08 de julho de 2022.
 
-UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO
-PRÓ-REITORIA DE GRADUAÇÃO
-PROGRAD/UFRRJ
 
-Relação de Convocação para Solicitação de Matrícula na Chamada Regular SiSU 2022-2
-A Solicitação de Matrícula (em modo remoto) começará no dia 13/07/2022 (quarta-feira) e se estenderá até as 23h59m59s da segunda-feira, dia 18/07/2022.
-CAMPUS
-NOME DO CURSO
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
-SEROPÉDICA AGRONOMIA
+                                                                                                                                                                                                      2/3
+                                                                                                                                                                       sexta-feira, 08 de julho de 2022.
 
-TURNO
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
 
-NOME DO CANDIDATO
-RARINE BARBARA DE OLIVEIRA FERNANDES
-RIELI TORTELI SCHERER
-SAMARA LUIZA MARTINS COSTA
-SARA DA SILVA RAPOSO
-THAIS CAMILO DINIZ
-THIAGO NIEIRO CUZZUOL
-VANESSA GONCALVES DO NASCIMENTO
-VITOR BATISTA SIQUEIRA
+                                                                        UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO
+                                                                                    PRÓ-REITORIA DE GRADUAÇÃO
+                                                                                            PROGRAD/UFRRJ
 
-3/3
+         Relação de Convocação para Solicitação de Matrícula na Chamada Regular SiSU 2022-2
+         A Solicitação de Matrícula (em modo remoto) começará no dia 13/07/2022 (quarta-feira) e se estenderá até as 23h59m59s da segunda-feira, dia 18/07/2022.
 
+         CAMPUS         NOME DO CURSO                        TURNO         NOME DO CANDIDATO
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      RARINE BARBARA DE OLIVEIRA FERNANDES
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      RIELI TORTELI SCHERER
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      SAMARA LUIZA MARTINS COSTA
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      SARA DA SILVA RAPOSO
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      THAIS CAMILO DINIZ
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      THIAGO NIEIRO CUZZUOL
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      VANESSA GONCALVES DO NASCIMENTO
+         SEROPÉDICA     AGRONOMIA                            INTEGRAL      VITOR BATISTA SIQUEIRA
+
+
+
+
+                                                                                                                                                                                                      3/3
 

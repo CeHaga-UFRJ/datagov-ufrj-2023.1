@@ -1,155 +1,72 @@
-sexta-feira, 08 de julho de 2022.
+                                                                                                                                                                        sexta-feira, 08 de julho de 2022.
 
-UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO
-PRÓ-REITORIA DE GRADUAÇÃO
-PROGRAD/UFRRJ
 
-Relação de Convocação para Solicitação de Matrícula na Chamada Regular SiSU 2022-2
-A Solicitação de Matrícula (em modo remoto) começará no dia 13/07/2022 (quarta-feira) e se estenderá até as 23h59m59s da segunda-feira, dia 18/07/2022.
-CAMPUS
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
+                                                                         UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO
+                                                                                     PRÓ-REITORIA DE GRADUAÇÃO
+                                                                                             PROGRAD/UFRRJ
 
-NOME DO CURSO
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
+         Relação de Convocação para Solicitação de Matrícula na Chamada Regular SiSU 2022-2
+         A Solicitação de Matrícula (em modo remoto) começará no dia 13/07/2022 (quarta-feira) e se estenderá até as 23h59m59s da segunda-feira, dia 18/07/2022.
 
-TURNO
-NOME DO CANDIDATO
-NOTURNO ABNER JOSE LEITE DE MORAES
-NOTURNO ALLAN VICTOR DOS SANTOS SILVA
-NOTURNO ARIANNY DE OLIVEIRA SANTOS
-NOTURNO ARTHUR AUGUSTO GONCALVES RODRIGUES
-NOTURNO ARTUR DO NASCIMENTO BARROS SILVA
-NOTURNO BRENO HENRIQUE DOS SANTOS MAGALHAES
-NOTURNO CARILENE FRANCISCA DA SILVA
-NOTURNO CARLOS ALEXANDRE SERUTI
-NOTURNO CAROLINA FELICIANO DE PAIVA
-NOTURNO CATARINA CONSTANCIO LIMA
-NOTURNO CLARISSE DE SOUZA SANTOS
-NOTURNO DANIELLE TEIXEIRA SOUZA
-NOTURNO DESIREE DA SILVA AGUIAR
-NOTURNO FABIO BEZERRA SALES NETO
-NOTURNO FELIPE LUIZ SILVA DAS NEVES
-NOTURNO GUSTAVO SOUZA DA SILVA
-NOTURNO HERITA PEREIRA DOS REIS
-NOTURNO HUGO RODRIGUES DE AQUINO
-NOTURNO IGOR DA SILVA DE OLIVEIRA
-NOTURNO ISABELLA VICTORIA FONSECA DA SILVA
-NOTURNO IZAIAS GOMES DA SILVA
-NOTURNO JOAO EDUARDO ARAO OLIVEIRA
-NOTURNO KAIQUE RODRIGUES OLIVEIRA
-NOTURNO LARA CAMILLY DA SILVA
-NOTURNO LARISSA ALVES SALVADOR
-NOTURNO LUAN CASSUNDE TRINDADE DE QUEIROZ
-NOTURNO LUCAS SANTOS TEODORIO
-NOTURNO MARCUS VINICIUS DE SOUZA NASCIMENTO
-NOTURNO MARIA EDUARDA DA SILVA GOMES
-NOTURNO MELISSA BEATRIZ DA SILVA
-NOTURNO NATALIE WILLIANY LIMA LEITE
-NOTURNO PAULO VINICIUS REIS PEREIRA
+         CAMPUS           NOME DO CURSO                        TURNO        NOME DO CANDIDATO
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      ABNER JOSE LEITE DE MORAES
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      ALLAN VICTOR DOS SANTOS SILVA
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      ARIANNY DE OLIVEIRA SANTOS
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      ARTHUR AUGUSTO GONCALVES RODRIGUES
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      ARTUR DO NASCIMENTO BARROS SILVA
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      BRENO HENRIQUE DOS SANTOS MAGALHAES
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      CARILENE FRANCISCA DA SILVA
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      CARLOS ALEXANDRE SERUTI
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      CAROLINA FELICIANO DE PAIVA
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      CATARINA CONSTANCIO LIMA
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      CLARISSE DE SOUZA SANTOS
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      DANIELLE TEIXEIRA SOUZA
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      DESIREE DA SILVA AGUIAR
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      FABIO BEZERRA SALES NETO
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      FELIPE LUIZ SILVA DAS NEVES
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      GUSTAVO SOUZA DA SILVA
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      HERITA PEREIRA DOS REIS
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      HUGO RODRIGUES DE AQUINO
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      IGOR DA SILVA DE OLIVEIRA
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      ISABELLA VICTORIA FONSECA DA SILVA
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      IZAIAS GOMES DA SILVA
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      JOAO EDUARDO ARAO OLIVEIRA
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      KAIQUE RODRIGUES OLIVEIRA
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      LARA CAMILLY DA SILVA
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      LARISSA ALVES SALVADOR
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      LUAN CASSUNDE TRINDADE DE QUEIROZ
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      LUCAS SANTOS TEODORIO
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      MARCUS VINICIUS DE SOUZA NASCIMENTO
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      MARIA EDUARDA DA SILVA GOMES
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      MELISSA BEATRIZ DA SILVA
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      NATALIE WILLIANY LIMA LEITE
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      PAULO VINICIUS REIS PEREIRA
 
-1/2
 
-sexta-feira, 08 de julho de 2022.
 
-UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO
-PRÓ-REITORIA DE GRADUAÇÃO
-PROGRAD/UFRRJ
+                                                                                                                                                                                                      1/2
+                                                                                                                                                                        sexta-feira, 08 de julho de 2022.
 
-Relação de Convocação para Solicitação de Matrícula na Chamada Regular SiSU 2022-2
-A Solicitação de Matrícula (em modo remoto) começará no dia 13/07/2022 (quarta-feira) e se estenderá até as 23h59m59s da segunda-feira, dia 18/07/2022.
-CAMPUS
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
-NOVA IGUAÇU
 
-NOME DO CURSO
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
-MATEMÁTICA
+                                                                         UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO
+                                                                                     PRÓ-REITORIA DE GRADUAÇÃO
+                                                                                             PROGRAD/UFRRJ
 
-TURNO
-NOME DO CANDIDATO
-NOTURNO PEDRO HENRIQUE MACHADO DE VASCONCELLOS
-NOTURNO RAFAEL MOURA DE PINHO
-NOTURNO ROSELI BARBOSA HOMEN
-NOTURNO SARAH ALVES DE CASTRO
-NOTURNO SHIRLEY CRISTINE ROCHA DA CONCEICAO
-NOTURNO VICTORIA OLIVEIRA PORFHIRIO DOS SANTOS
-NOTURNO VINICIUS CLEMENTE AVILA
-NOTURNO WEIDER LISBOA DOS SANTOS DE SOUZA
+         Relação de Convocação para Solicitação de Matrícula na Chamada Regular SiSU 2022-2
+         A Solicitação de Matrícula (em modo remoto) começará no dia 13/07/2022 (quarta-feira) e se estenderá até as 23h59m59s da segunda-feira, dia 18/07/2022.
 
-2/2
+         CAMPUS           NOME DO CURSO                        TURNO        NOME DO CANDIDATO
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      PEDRO HENRIQUE MACHADO DE VASCONCELLOS
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      RAFAEL MOURA DE PINHO
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      ROSELI BARBOSA HOMEN
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      SARAH ALVES DE CASTRO
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      SHIRLEY CRISTINE ROCHA DA CONCEICAO
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      VICTORIA OLIVEIRA PORFHIRIO DOS SANTOS
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      VINICIUS CLEMENTE AVILA
+         NOVA IGUAÇU      MATEMÁTICA                           NOTURNO      WEIDER LISBOA DOS SANTOS DE SOUZA
 
+
+
+
+                                                                                                                                                                                                      2/2
 

@@ -1,170 +1,77 @@
-sexta-feira, 08 de julho de 2022.
+                                                                                                                                                                       sexta-feira, 08 de julho de 2022.
 
-UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO
-PRÓ-REITORIA DE GRADUAÇÃO
-PROGRAD/UFRRJ
 
-Relação de Convocação para Solicitação de Matrícula na Chamada Regular SiSU 2022-2
-A Solicitação de Matrícula (em modo remoto) começará no dia 13/07/2022 (quarta-feira) e se estenderá até as 23h59m59s da segunda-feira, dia 18/07/2022.
-CAMPUS
-NOME DO CURSO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
+                                                                        UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO
+                                                                                    PRÓ-REITORIA DE GRADUAÇÃO
+                                                                                            PROGRAD/UFRRJ
 
-TURNO
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
+         Relação de Convocação para Solicitação de Matrícula na Chamada Regular SiSU 2022-2
+         A Solicitação de Matrícula (em modo remoto) começará no dia 13/07/2022 (quarta-feira) e se estenderá até as 23h59m59s da segunda-feira, dia 18/07/2022.
 
-NOME DO CANDIDATO
-ALAN LOPES TEIXEIRA
-ALEXIA MARTINS ALMEIDA SANTOS
-ANA CLARA FURTADO DE OLIVEIRA
-BERNARDO MARTINS COSTA GOMES
-BRENDA DA SILVA LEAL
-CAIO GUALAME FERNANDEZ
-CATHARINA BAFFI MEYER
-CAUA MEDEIROS BASTOS
-CLARA ALICE DE SOUZA TONEO
-DOMINIQUE CIPRIANO DOS SANTOS
-EDUARDA DIAS FONSECA
-EMANUELLE DE SOUZA PINTO DOS SANTOS
-ESTELA DA SILVA CANDIDO DE LIMA
-GABRIELA FRAGA CAMPOS
-GABRIELLE NUNES PESSANHA
-GESANA DE MARINS MARQUES SOARES
-GIOVANA SILVA LAUREANO LUIZ
-GUSTAVO DA SILVA NASCIMENTO
-HELENA FREIRES JOSCELINO
-ISADORA ROSA ALVES
-JAYANE VERISSIMO TEIXEIRA
-JOAO FELIPE RIBEIRO LOBO
-JOAO LUCAS RAMOS MALAFAIA PEREIRA
-JOAO PEDRO GOMES DE ABREU
-JOAO VITOR DA SILVA LOPES
-JONATHAN VIEIRA DE ANDRADE
-JULIA CAMILLY PEREIRA DA SILVA
-JULIA DE CAMPOS DOS SANTOS
-JULIANA ALVES SOUZA RIBEIRO
-KAILLANY MARCELLO RODRIGUES
-KAIQUE DE SOUSA BATISTA
-KARISA RIBEIRO BARBOSA
+         CAMPUS         NOME DO CURSO                        TURNO         NOME DO CANDIDATO
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      ALAN LOPES TEIXEIRA
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      ALEXIA MARTINS ALMEIDA SANTOS
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      ANA CLARA FURTADO DE OLIVEIRA
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      BERNARDO MARTINS COSTA GOMES
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      BRENDA DA SILVA LEAL
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      CAIO GUALAME FERNANDEZ
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      CATHARINA BAFFI MEYER
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      CAUA MEDEIROS BASTOS
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      CLARA ALICE DE SOUZA TONEO
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      DOMINIQUE CIPRIANO DOS SANTOS
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      EDUARDA DIAS FONSECA
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      EMANUELLE DE SOUZA PINTO DOS SANTOS
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      ESTELA DA SILVA CANDIDO DE LIMA
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      GABRIELA FRAGA CAMPOS
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      GABRIELLE NUNES PESSANHA
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      GESANA DE MARINS MARQUES SOARES
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      GIOVANA SILVA LAUREANO LUIZ
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      GUSTAVO DA SILVA NASCIMENTO
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      HELENA FREIRES JOSCELINO
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      ISADORA ROSA ALVES
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      JAYANE VERISSIMO TEIXEIRA
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      JOAO FELIPE RIBEIRO LOBO
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      JOAO LUCAS RAMOS MALAFAIA PEREIRA
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      JOAO PEDRO GOMES DE ABREU
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      JOAO VITOR DA SILVA LOPES
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      JONATHAN VIEIRA DE ANDRADE
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      JULIA CAMILLY PEREIRA DA SILVA
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      JULIA DE CAMPOS DOS SANTOS
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      JULIANA ALVES SOUZA RIBEIRO
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      KAILLANY MARCELLO RODRIGUES
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      KAIQUE DE SOUSA BATISTA
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      KARISA RIBEIRO BARBOSA
 
-1/2
 
-sexta-feira, 08 de julho de 2022.
 
-UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO
-PRÓ-REITORIA DE GRADUAÇÃO
-PROGRAD/UFRRJ
+                                                                                                                                                                                                      1/2
+                                                                                                                                                                       sexta-feira, 08 de julho de 2022.
 
-Relação de Convocação para Solicitação de Matrícula na Chamada Regular SiSU 2022-2
-A Solicitação de Matrícula (em modo remoto) começará no dia 13/07/2022 (quarta-feira) e se estenderá até as 23h59m59s da segunda-feira, dia 18/07/2022.
-CAMPUS
-NOME DO CURSO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
-SEROPÉDICA ADMINISTRAÇÃO
 
-TURNO
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
-INTEGRAL
+                                                                        UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO
+                                                                                    PRÓ-REITORIA DE GRADUAÇÃO
+                                                                                            PROGRAD/UFRRJ
 
-NOME DO CANDIDATO
-LUCAS AUGUSTO LUIZ CARDOSO
-MARCELLE DE ASSIS GONCALVES
-MARCELLO CARVALHO DE AQUINO
-MARCOS VINICIUS LUNA DE OLIVEIRA
-MARIA EDUARDA DA CRUZ MORAES SILVA
-MARLLON PEREIRA DE CARVALHO
-MATHEUS ALEXANDRE MEDEIROS DOS SANTOS
-MILENA ALVES MIRANDA
-PEDRO ENRIQUE DE OLIVEIRA LAPA
-RHAMON MATHEUS DA SILVA VIEIRA PERRUT
-THAISSA FEITOSA BRITO
-VICTORIA DA SILVA ROSA
-YASMIN ROCHA RAMOS
+         Relação de Convocação para Solicitação de Matrícula na Chamada Regular SiSU 2022-2
+         A Solicitação de Matrícula (em modo remoto) começará no dia 13/07/2022 (quarta-feira) e se estenderá até as 23h59m59s da segunda-feira, dia 18/07/2022.
 
-2/2
+         CAMPUS         NOME DO CURSO                        TURNO         NOME DO CANDIDATO
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      LUCAS AUGUSTO LUIZ CARDOSO
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      MARCELLE DE ASSIS GONCALVES
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      MARCELLO CARVALHO DE AQUINO
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      MARCOS VINICIUS LUNA DE OLIVEIRA
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      MARIA EDUARDA DA CRUZ MORAES SILVA
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      MARLLON PEREIRA DE CARVALHO
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      MATHEUS ALEXANDRE MEDEIROS DOS SANTOS
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      MILENA ALVES MIRANDA
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      PEDRO ENRIQUE DE OLIVEIRA LAPA
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      RHAMON MATHEUS DA SILVA VIEIRA PERRUT
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      THAISSA FEITOSA BRITO
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      VICTORIA DA SILVA ROSA
+         SEROPÉDICA     ADMINISTRAÇÃO                        INTEGRAL      YASMIN ROCHA RAMOS
 
+
+
+
+                                                                                                                                                                                                      2/2
 
