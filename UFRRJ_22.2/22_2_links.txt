@@ -1,0 +1,107 @@
+ 
+ <h3 class="alert alert-info">Seropédica</h3>
+<div class="row">
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/administracao_seropedica.pdf"  title=""  target="_blank" >Administração<br />(integral)</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/administracao-not_seropedica.pdf" title="" target="_blank" >Administração<br />(noturno)</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/agronomia_seropedica.pdf" title="" target="_blank" >Agronomia</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/arquitetura-urbanismo_seropedica.pdf" title="" target="_blank" >Arquitetura e Urbanismo</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/ciencias-agricolas_seropedica.pdf" title="" target="_blank" >Ciências Agrícolas</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/ciencias-biologicas_seropedica.pdf" title="" target="_blank" >Ciências Biológicas</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/ciencias-economicas_seropedica.pdf" title="" target="_blank" >Ciências Econômicas</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/ciencias-sociais_seropedica.pdf" title="" target="_blank" >Ciências Sociais</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/direito_seropedica.pdf" title="" target="_blank" >Direito</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/ed-fisica_seropedica.pdf" title="" target="_blank" >Educação Física</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/eng-agricola_seropedica.pdf" title="" target="_blank" >Engenharia Agrícola e Ambiental</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/eng-agrimensura_seropedica.pdf" title="" target="_blank" >Engenharia de Agrimensura e Cartográfica</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/eng-alimentos_seropedica.pdf" title="" target="_blank" >Engenharia de Alimentos</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/eng-florestal_seropedica.pdf" title="" target="_blank" >Engenharia Florestal</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/eng-materiais_seropedica.pdf" title="" target="_blank" >Engenharia de Materiais</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/eng-quimica_seropedica.pdf" title="" target="_blank" >Engenharia Química</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/farmacia_seropedica.pdf" title="" target="_blank" >Farmácia</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/filosofia_seropedica.pdf" title="" target="_blank" >Filosofia</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/fisica_seropedica.pdf" title="" target="_blank" >Física</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/geografia_seropedica.pdf" title="" target="_blank" >Geografia</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/geologia_seropedica.pdf" title="" target="_blank" >Geologia</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/historia_seropedica.pdf" title="" target="_blank" >História<br /> (vespertino)</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/hotelaria_seropedica.pdf" title="" target="_blank" >Hotelaria</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/jornalismo_seropedica.pdf" title="" target="_blank" >Jornalismo</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/letras-ingles_seropedica-1.pdf" title="" target="_blank" >Letras – Português/<br />Inglês/Literaturas</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/letras-portugues_seropedica.pdf" title="" target="_blank" >Letras – Português/<br />Literaturas</a></div>  
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/matematica_seropedica.pdf" title="" target="_blank" >Matemática</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/med-veterinaria_seropedica.pdf" title="" target="_blank" >Medicina Veterinária</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/pedagogia_seropedica.pdf" title="" target="_blank" >Pedagogia</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/quimica-not_seropedica.pdf" title="" target="_blank" >Química<br />(noturno)</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/quimica_seropedica.pdf" title="" target="_blank" >Química<br />(integral)</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/relacoes-internacionais_seropedica.pdf" title="" target="_blank" >Relações Internacionais</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/sistemas-informacao_seropedica.pdf" title="" target="_blank" >Sistemas de Informação</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/zootecnia_seropedica.pdf" title="" target="_blank" >Zootecnia</a></div>
+</div>
+
+
+<h3 class="alert alert-info">Nova Iguaçu</h3>
+<div class="row">
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/administracao_ni.pdf" title="" target="_blank" >Administração</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/ciencia-da-computacao_ni.pdf" title="" target="_blank" >Ciências da Computação</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/ciencias-economicas_ni.pdf" title="" target="_blank" >Ciências Econômicas</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/direito_ni.pdf" title="" target="_blank" >Direito</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/historia_ni.pdf" title="" target="_blank" >História</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/letras-esp_ni.pdf" title="" target="_blank" >Letras – Português/<br />Espanhol/Literaturas</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/letras-pt_ni.pdf" title="" target="_blank" >Letras – Português/<br />Literaturas</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/matematica_ni.pdf" title="" target="_blank" >Matemática</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/pedagogia_ni.pdf" title="" target="_blank" >Pedagogia</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/turismo_ni.pdf" title="" target="_blank" >Turismo</a></div>
+  </div>
+  
+  
+<h3 class="alert alert-info">Três Rios</h3>
+<div class="row">
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/administracao_itr.pdf" title="" target="_blank" >Administração</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/ciencias-economicas_itr.pdf" title="" target="_blank" >Ciências Econômicas</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/direito_itr.pdf" title="" target="_blank" >Direito</a></div>
+  
+  <div class="col-lg-2"><a href="http://r1.ufrrj.br/sisu/wp-content/uploads/2022/07/gestao-ambiental_itr.pdf" title="" target="_blank" >Gestão Ambiental</a></div>
+  </div></div></div><div class="clear"></div>
